@@ -11,7 +11,6 @@ Un dashboard moderno y responsive desarrollado con Next.js, TypeScript y Tailwin
 - 📊 Panel de analíticas con gráficos interactivos
 - 📅 Sistema de agenda integrado
 - 📱 Diseño totalmente responsive
-- 🌓 Modo claro/oscuro
 - 🔍 Filtros de búsqueda avanzados
 - 📋 Gestión de servicios
 - 🔔 Sistema de notificaciones
