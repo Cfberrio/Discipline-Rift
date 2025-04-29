@@ -13,8 +13,6 @@ Un dashboard moderno y responsive desarrollado con Next.js, TypeScript y Tailwin
 - 📱 Diseño totalmente responsive
 - 🔍 Filtros de búsqueda avanzados
 - 📋 Gestión de servicios
-- 🔔 Sistema de notificaciones
-- 📱 Interfaz adaptativa para móviles
 
 ## 🚀 Tecnologías Utilizadas
 
