@@ -87,4 +87,4 @@ Este proyecto está bajo la Licencia MIT - ver el archivo [LICENSE.md](LICENSE.m
 - [Next.js](https://nextjs.org/) por el framework
 
 ---
-⭐️ Si te gusta este proyecto, ¡no olvides darle una estrella! 
+
