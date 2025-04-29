@@ -1,3 +1,18 @@
+/**
+ * API Service
+ * 
+ * Este archivo contiene las funciones para interactuar con la API del backend.
+ * La información obtenida de estas funciones se actualizará en los siguientes componentes:
+ * 
+ * - src/app/components/dashboard/ServiceList.tsx: Lista de servicios
+ * - src/app/components/dashboard/Analytics.tsx: Gráficos y estadísticas
+ * - src/app/components/dashboard/ActivityFeed.tsx: Feed de actividades
+ * - src/app/components/dashboard/Schedule.tsx: Calendario y horarios
+ * 
+ * Los hooks correspondientes (useServices, useAnalytics, useActivities, useSchedule)
+ * se encargan de manejar el estado y la lógica de actualización de estos componentes.
+ */
+
 import { Service, AnalyticsData, Activity, Schedule } from '../types';
 
 const API_BASE_URL = process.env.NEXT_PUBLIC_API_URL || 'http://localhost:3000/api';
