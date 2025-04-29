@@ -61,9 +61,7 @@ pnpm dev
 - `pnpm start` - Inicia la aplicación en modo producción
 - `pnpm lint` - Ejecuta el linter
 
-## 📱 Capturas de Pantalla
 
-[Aquí puedes añadir capturas de pantalla de tu aplicación]
 
 ## 🔧 Configuración
 
@@ -73,15 +71,6 @@ El proyecto utiliza las siguientes configuraciones:
 - `tailwind.config.ts` - Configuración de Tailwind CSS
 - `tsconfig.json` - Configuración de TypeScript
 
-## 🤝 Contribuir
-
-Las contribuciones son bienvenidas. Por favor, sigue estos pasos:
-
-1. Haz fork del proyecto
-2. Crea una rama para tu feature (`git checkout -b feature/AmazingFeature`)
-3. Haz commit de tus cambios (`git commit -m 'Add some AmazingFeature'`)
-4. Haz push a la rama (`git push origin feature/AmazingFeature`)
-5. Abre un Pull Request
 
 ## 📄 Licencia
 
@@ -89,9 +78,9 @@ Este proyecto está bajo la Licencia MIT - ver el archivo [LICENSE.md](LICENSE.m
 
 ## 👤 Autor
 
-- **Carlos Berrio** - [GitHub](https://github.com/Cfberrio)
+- **Cristian Berrio** - [GitHub](https://github.com/Cfberrio)
 
-## 🙏 Agradecimientos
+
 
 - [Shadcn/ui](https://ui.shadcn.com/) por los componentes de UI
 - [Vercel](https://vercel.com) por el hosting
